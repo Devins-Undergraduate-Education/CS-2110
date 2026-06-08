@@ -1,0 +1,26 @@
+1. Open the "cs2110docker.sh" command prompt window
+2. "cd host"
+3. "ls"
+4. "cd" into appropriate folder
+5. "gcc {MYFILE}.c -o {MYFILE}
+6. "gcc {MYFILE}.c -o {MYFILE} -g"
+7. "gdb {MYFILE}"
+8. "layout src"
+
+TO RUN:
+1. "run"
+
+TO SET BREAKPOINT:
+1. "break {LINE_NUMBER/METHOD_NAME}" 
+
+TO PRINT: 
+1. "print {VAR}"
+
+TO MOVE TO NEXT LINE:
+1. "next"
+
+TO STEP INTO FUNCTION:
+1. "step"
+
+TO QUIT:
+1. "quit"
